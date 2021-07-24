@@ -7,3 +7,5 @@ short period, IPL has become the highest revenue generating league of cricket. D
 Analytics has been a part of sports entertainment for a long time. In a cricket match, we
 might have seen the score line showing the probability of the team winning based on the
 current match situation. This, my friend, is Data Analytics in action!
+
+![Capture2](https://user-images.githubusercontent.com/51202726/126860479-e3dbdfac-f9d6-4549-b48a-c6662fec4030.JPG)
